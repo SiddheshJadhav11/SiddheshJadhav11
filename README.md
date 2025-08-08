@@ -29,15 +29,3 @@
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-jadhav07/)  
 
----
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshjadhav11&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshjadhav11&show_icons=true&locale=en&layout=compact" alt="siddheshjadhav11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddheshjadhav11&show_icons=true&locale=en" alt="siddheshjadhav11" /></p>
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshjadhav11&" alt="siddheshjadhav11" />
-</div>
