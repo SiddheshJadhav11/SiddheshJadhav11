@@ -1,6 +1,9 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/be832922391491.58c25558f0fe7.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Siddhesh Jadhav</h1>
+
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/be832922391491.58c25558f0fe7.gif)](https://rishavchanda.io)
+
+
 <h3 align="center">I am a pre-final year Data Analyst skilled in SQL, Python, Power BI, and Excel</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">  
